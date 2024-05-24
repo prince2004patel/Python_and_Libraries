@@ -1,4 +1,5 @@
 --> check in, Numpy/Numpy_probelm_1
+
 🔍 Automating EMI Calculations with Python, NumPy, and CSV Files! 📊
 
 I'm excited to share a recent project where I utilized Python and NumPy to automate the process of reading, processing, and writing CSV files for house loan information. 🏡
