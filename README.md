@@ -1,3 +1,5 @@
+## 1. project using python and numpy
+
 --> check in, Numpy/Numpy_probelm_1
 
 🔍 Automating EMI Calculations with Python, NumPy, and CSV Files! 📊
