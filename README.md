@@ -58,3 +58,23 @@ check in, Pandas/OverTheMoon_problem_1/MoonRocks/
 
 This program provided hands-on experience with Apollo mission data (Apollo 11 to Apollo 17) on moon rocks. Using Python, I analyzed the types of lunar rocks and identified which ones are scarce on Earth. This data is crucial for NASA's upcoming Artemis mission, helping astronauts determine the types and quantities of moon rocks needed for future research.
 
+### 4. Project using Python, Pandas, Metplotlib and Seaborn
+
+check in , Python_and_Libraries/Data_Visualization_using_Matplotlib_Seaborn
+/INDvsSA.ipynb
+
+ #### 🏆  Analysis of the T20 World Cup Final: India vs. South Africa 🏏
+
+I recently completed a detailed analysis of the epic final match of the T20 World Cup between India and South Africa, held on June 29, 2024. Utilizing Python and essential libraries like Pandas, Matplotlib, and Seaborn, I delved into the match statistics to uncover key insights.
+
+GitHub:
+https://lnkd.in/dXqYpD6G
+
+Analysis Overview: 
+
+-->Bowling Economy: Visualized economy rates of bowlers from both teams, highlighting their effectiveness.
+-->Batsmen's Performance: Compared runs scored by key batsmen, emphasizing their contributions and strike rates.
+
+This project highlights how data analysis can bring a new dimension to understanding cricket matches, providing a thorough breakdown of each player's impact and the overall flow of the game. The full report, filled with visualizations and detailed stats, offers a comprehensive look into this thrilling final.
+
+Dive into the full analysis in the attached PDF. I'm eager to connect and discuss further about the fascinating world of sports analytics!
