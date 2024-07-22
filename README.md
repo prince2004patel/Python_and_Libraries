@@ -67,9 +67,6 @@ check in , Python_and_Libraries/Data_Visualization_using_Matplotlib_Seaborn
 
 I recently completed a detailed analysis of the epic final match of the T20 World Cup between India and South Africa, held on June 29, 2024. Utilizing Python and essential libraries like Pandas, Matplotlib, and Seaborn, I delved into the match statistics to uncover key insights.
 
-GitHub:
-https://lnkd.in/dXqYpD6G
-
 Analysis Overview: 
 
 -->Bowling Economy: Visualized economy rates of bowlers from both teams, highlighting their effectiveness.
