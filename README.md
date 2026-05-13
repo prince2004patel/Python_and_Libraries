@@ -75,3 +75,16 @@ Analysis Overview:
 This project highlights how data analysis can bring a new dimension to understanding cricket matches, providing a thorough breakdown of each player's impact and the overall flow of the game. The full report, filled with visualizations and detailed stats, offers a comprehensive look into this thrilling final.
 
 Dive into the full analysis in the attached PDF. I'm eager to connect and discuss further about the fascinating world of sports analytics!
+
+### 5. Python Practice
+
+#### Structure of the Revision Program :
+- 10 Levels
+- Each level contains 10 questions/tasks
+- Total = 100 questions/tasks
+- Difficulty will gradually increase from basic to advanced.
+  
+1. Level 1–3	Basic (Starting from zero)
+2. Level 4–5	Beginner
+3. Level 6–8	Intermediate
+4. Level 9–10	Advanced
